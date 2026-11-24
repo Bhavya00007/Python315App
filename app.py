@@ -9,6 +9,7 @@ def home():
     <html>
         <head>
             <title>Python 3.15 Web App</title>
+            <meta name="google-site-verification" content="dOvbjDkm9c_-E8A8kzLw1Oe_jZz-1o9gnOIHSk_4clM" />
         </head>
         <body>
             <h1>Hello Chandigarh University!</h1>
@@ -16,3 +17,6 @@ def home():
         </body>
     </html>
     """
+
+if __name__ == "__main__":
+    app.run()

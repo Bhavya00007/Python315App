@@ -1,2 +1,2 @@
-Flask
-gunicorn
+Flask --timeout 120
+gunicorn --timeout 120
